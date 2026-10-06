@@ -1,0 +1,3 @@
+name,language,stars,description,url,forks
+ecommerce-scraper,Python,0,"Python web scraper that extracts book data from Books to Scrape and exports 1,000 products to CSV using Requests, BeautifulSoup, and Pandas.",https://github.com/aram254G/ecommerce-scraper,0
+python_data-cleaner,Jupyter Notebook,0,a python tool that clean data to a presentable CSV file to a customer,https://github.com/aram254G/python_data-cleaner,0
